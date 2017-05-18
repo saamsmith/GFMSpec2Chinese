@@ -1,0 +1,1 @@
+中文翻译[GFM Spec](https://github.github.com/gfm/)
